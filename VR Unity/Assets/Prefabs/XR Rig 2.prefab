@@ -965,7 +965,7 @@ GameObject:
   - component: {fileID: 3703579424539686582}
   - component: {fileID: 3703579424539686580}
   m_Layer: 0
-  m_Name: XR Rig
+  m_Name: XR Rig 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1197,12 +1197,12 @@ MonoBehaviour:
     m_Name: Main Camera - TPD - Position
     m_Type: 0
     m_ExpectedControlType: Vector3
-    m_Id: 
+    m_Id: 6ac8374e-7e9b-4e99-993f-872ae9281b50
     m_Processors: 
     m_Interactions: 
     m_SingletonActionBindings:
     - m_Name: 
-      m_Id: 
+      m_Id: 5553d982-a2ba-4180-9c9c-afa4a7b7394c
       m_Path: <XRHMD>/centerEyePosition
       m_Interactions: 
       m_Processors: 
@@ -1213,12 +1213,12 @@ MonoBehaviour:
     m_Name: Main Camera - TPD - Rotation
     m_Type: 0
     m_ExpectedControlType: Quaternion
-    m_Id: 
+    m_Id: 2f684b44-0653-48ac-9046-e1f7ecdb55f0
     m_Processors: 
     m_Interactions: 
     m_SingletonActionBindings:
     - m_Name: 
-      m_Id: 
+      m_Id: 492f9c2e-9989-45ff-995c-18b55c881b31
       m_Path: <XRHMD>/centerEyeRotation
       m_Interactions: 
       m_Processors: 
